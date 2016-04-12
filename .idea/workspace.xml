@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3016951d-a58c-463d-ac0d-d316d57a360b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup/serializers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/address_book_backup_service/settings.py" afterPath="$PROJECT_DIR$/address_book_backup_service/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/address_book_backup_service/urls.py" afterPath="$PROJECT_DIR$/address_book_backup_service/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/admin.py" afterPath="$PROJECT_DIR$/backup/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/models.py" afterPath="$PROJECT_DIR$/backup/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/views.py" afterPath="$PROJECT_DIR$/backup/views.py" />
     </list>
     <ignored path="address_book_backup_service.iws" />
@@ -56,8 +49,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backup/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -703,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backup/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>

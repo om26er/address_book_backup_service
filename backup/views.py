@@ -13,6 +13,6 @@ class AddContactView(CreateAPIView):
 
     def post(self, request, *args, **kwargs):
         if len(request.data) == 0:
-            data = {'message': 'Atleast one parameter is necessary'}
+            data = {'message': 'At least one parameter is necessary'}
             return Response(data=data, status=status.HTTP_400_BAD_REQUEST)
         return super().post(request, *args, **kwargs)
