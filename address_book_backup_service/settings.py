@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'address_book_backup_service.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': '',
-        'USER': '',
-        'PASSWORD': '',
+        'NAME': 'addressbookbackup',
+        'USER': 'mysqluser',
+        'PASSWORD': 'secret',
         'HOST': '',
         'PORT': '',
     }
